@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: demo-k8s
+  profiles:
+    active: dev
